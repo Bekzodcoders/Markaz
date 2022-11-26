@@ -6,6 +6,8 @@ public class Lesson {
 
     private String name;
 
+    private boolean active;
+
 
     public Lesson(int id, String name) {
         this.id = id;
