@@ -10,6 +10,8 @@ public class Group {
     private int id;
 
     private String name;
+    
+    private boolean active;
 
     private ArrayList<Timetable> timetables = new ArrayList<>();
 
