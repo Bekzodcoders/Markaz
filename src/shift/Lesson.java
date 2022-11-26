@@ -8,6 +8,8 @@ public class Lesson {
 
     private boolean active;
 
+    private String birbalo;
+
 
     public Lesson(int id, String name) {
         this.id = id;
