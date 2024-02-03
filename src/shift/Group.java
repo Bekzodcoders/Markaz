@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Group {
 
     public static int nextId;
-    private int id;
+    private int id  =  1;
 
     private String name;
     
